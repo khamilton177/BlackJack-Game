@@ -1,0 +1,1 @@
+'perldoc perl toc' at command line will give you table of contents for perl help.
